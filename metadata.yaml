@@ -1,0 +1,33 @@
+_repo: Sateenkaari-Romaani_65523
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nyman, O. E.
+    alias: Nyman, Onni Edvard
+    birthdate: 1888
+    gutenberg_agent_id: '47984'
+    url: http://www.gutenberg.org/2009/agents/47984
+creator:
+  author:
+    agent_name: Beach, Rex
+    alias: Beach, Rex Ellingwood
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '4000'
+    url: http://www.gutenberg.org/2009/agents/4000
+    wikipedia: https://en.wikipedia.org/wiki/Rex_Beach
+description: ''
+gutenberg_issued: '2021-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65523'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sateenkaari
+
+  Romaani'
+url: http://www.gutenberg.org/ebooks/65523
