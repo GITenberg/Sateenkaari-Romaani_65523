@@ -7,6 +7,9 @@ contributor:
     birthdate: 1888
     gutenberg_agent_id: '47984'
     url: http://www.gutenberg.org/2009/agents/47984
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beach, Rex
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4000
     wikipedia: https://en.wikipedia.org/wiki/Rex_Beach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65523#Sateenkaari-Romaani
 gutenberg_issued: '2021-06-06'
 gutenberg_type: Text
 identifiers:
